@@ -76,7 +76,7 @@ O ACOS é uma porcentagem que relaciona o custo da campanha publicitária com as
 
 Por exemplo, se seu ACOS for 10%, isso significa que você investe R$10 por cada R$100 gerados com as vendas com publicidade.
 
-### Qual seria uma boa porcentagem de ACOS? E uma ruim?
+### **Qual seria uma boa porcentagem de ACOS? E uma ruim?**
 
 Nenhuma porcentagem de ACOS é ruim e nem boa!
 Embora ter um ACOS baixo seja um bom indicador de rentabilidade, um ACOS alto pode aumentar sua visibilidade, ajudar você a dominar uma categoria e gerar maiores benefícios no longo prazo.
@@ -89,10 +89,50 @@ Com Product Ads, você pode criar várias campanhas e definir uma estratégia e 
  
 Vamos analisar cada passo detalhadamente.
 
-### Calcule a margem de contribuição do seu produto
+### **Calcule a margem de contribuição do seu produto**
 
-![a](https://academy.mercadoads.com/uploads/resource_courses/targets/2704899/original/course/en/assets/60db6a13b8ab710d03882a91/extraLarge.png)
-<img src="https://academy.mercadoads.com/uploads/resource_courses/targets/2704899/original/course/en/assets/60db6a13b8ab710d03882a91/extraLarge.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+Para obter a margem de contribuição do seu produto, você deve subtrair do preço de venda do seu produto, todos os custos variáveis: comissões do Mercado Livre, custos de produção, custos operacionais, custos de envio, impostos. O resultado será a margem de contribuição.
+
+Observe o gráfico abaixo:
+
+![Margem de contribuição](/assets/margem-de-contribuicao.png "Margem de contribuição")
+
+### **Defina seus níveis de renda e de ACOS**
+
+Depois de calcular a margem de contribuição de cada um dos seus produtos, segmente-os segundo os objetivos que quer atingir com a campanha.
+
+Vamos voltar ao gráfico anterior. A margem de contribuição (40%) representa o ACOS objetivo máximo com o qual poderá obter lucro. Se definir como objetivo um ACOS acima desse valor, vai começar a <span style="color:red">**perder dinheiro**</span>.
+
+Se a margem de contribuição for de 40% e você quiser alcançar uma porcentagem de lucro de 26%, deverá estabelecer como objetivo um ACOS de 14%, seguindo então uma <span style="color:orange">**estratégia de rentabilidade**</span>, como no gráfico a seguir.
+
+![Estratégia de rentabilidade](/assets/estrategia-de-rentabilidade.png "Estratégia de rentabilidade")
+
+Segundo seus produtos e objetivos de negócio, opte por outros níveis. Para atingir uma porcentagem de lucro de 15%, por exemplo, estabeleça como objetivo um ACOS de 25%, seguindo uma <span style="color:orange">**estratégia de crescimento**</span>.
+
+![Estratégia de crescimento](/assets/estrategia-de-crescimento.png "Estratégia de crescimento")
+
+Finalmente, você pode priorizar uma estratégia ofensiva, com o objetivo de conseguir as melhores posições em detrimento da rentabilidade da campanha. Dessa maneira, estabeleça como objetivo um ACOS de 35%, próximo do limite da sua margem de contribuição, seguindo uma <span style="color:orange">**estratégia de visibilidade**</span>.
+
+![Estratégia de visibilidade](/assets/estrategia-de-visibilidade.png "Estratégia de visibilidade")
+
+### **E se o ACOS for maior que a minha margem de contribuição?**
+
+De acordo com as particularidades do seu negócio e dos seus produtos, seu objetivo pode permitir uma margem de contribuição negativa, ou seja, prejuízo.
+Isso pode acontecer, por exemplo, no contexto de lançamento de marcas, com produtos com muita concorrência que precisam ser colocados no mercado.
+
+![Estratégia de visibilidade agressiva](/assets/estrategia-de-visibilidade-bruta.png "Estratégia de visibilidade agressiva")
+
+## Como agrupar seus produtos em diferentes campanhas
+
+Na hora de organizar suas campanhas, siga diferentes estratégias. Conheça qual é a mais apropriada para a dinâmica do seu negócio ou crie sua própria estratégia combinando diferentes alternativas.
+
+* Por marca;
+* Por categoria;
+* Por contribuição para o crescimento do negócio;
+* Por objetivo de rentabilidade;
+* Por objetivo de crescimento;
+* Por objetivo de visibilidade;
+* Por Permanentes e temporárias.
 
 # <span style="color:#4169e1">**3 - Crie e configure suas campanhas de Product Ads**</span>
 
